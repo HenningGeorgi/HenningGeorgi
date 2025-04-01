@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HenningGeorgi
 - 👀 Interested in Fullstack Development of individual webapplications
-- 🌱 Currently learning GrephQL
+- 🌱 Currently learning GraphQL
 - 💞️ Looking for collaborations in Web- and Backenddevelopment
 - 📫 How to reach me henning.hg.georgi@t-online.de | +49 1590 1230741
